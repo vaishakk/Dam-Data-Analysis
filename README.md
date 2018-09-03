@@ -1,3 +1,3 @@
 # DamDataAnalysis
 Trying to solve Kerala's dam conundrum during 2018 floods using data.
-![Sample](https://previews.dropbox.com/p/thumb/AAJpYc2pJRFp8sJ7qW_nUcnsCAZUtavLwNI7dYalSkLmO23P_pXErh41TOvshRdMBboHoBpDsaMfbEgdgE1ff4ltpksAF96TL527Mo3BGUjgjo6TBHqZlmclcY5vuQGFcHup5Aa5m_rFKOU8kg6V48QY2miahJPXR5uyzVH3OEXOjYl-fwA1Pf2zJEO83Rr2lc8/p.png)
+![Sample](https://drive.google.com/file/d/1h4JPmqyJrhhqYVMzN6z_0DwtkdV9EbSN/view?usp=sharing)
